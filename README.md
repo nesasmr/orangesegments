@@ -16,7 +16,7 @@ The first element ("orange") loads a wav file into an array. The second ("segmen
 
 There are two signal outlets for stereo output, left and right. The second two outlets are useful for time syncing. The left outlet outputs a bang the moment before a new segment plays, and the right outlet outputs the segment length in milliseconds. 
 
-<img src="https://github.com/nesasmr/ratatouille/blob/main/patchpic.png">
+<img src="https://github.com/nesasmr/orangesegments/blob/main/patchpic.png">
 
 
 The analogy:
