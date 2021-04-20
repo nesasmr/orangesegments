@@ -3,7 +3,7 @@
 
 So here's the concept:
 
-To rotate through an audio file, a patch that picks out little pieces, searching for resonant math, the melodies and rhythms that crop up. 
+To rotate through an audio file, it's a patch that picks out little pieces. By changing the distance of each rotation on the fly, the way the segments are sorted becomes playable.
 
 The name comes from "The Orange Garden" which was a project for Cities and Memory. For my contribution, I explored the pattern-recognition of a human listener in a park, the fact that certain sounds have regularities, periods. The birds call every few seconds, a person walks by every few half-minutes, a plane passes every couple minutes… Music has those kinds of periods too. By dividing a field recording of a park into divisions of equal size, sequential playback locks all the clips to a rhythm and the sounds inside become easier to hear as a melody. 
 
